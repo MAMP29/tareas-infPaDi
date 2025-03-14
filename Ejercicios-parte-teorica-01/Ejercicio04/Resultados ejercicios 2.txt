@@ -1,0 +1,86 @@
+Resultados ejercicio 2
+
+LOOP 2
+==11504== Cachegrind, a high-precision tracing profiler
+==11504== Copyright (C) 2002-2024, and GNU GPL'd, by Nicholas Nethercote et al.
+==11504== Using Valgrind-3.24.0 and LibVEX; rerun with -h for copyright info
+==11504== Command: ./loop2_ver
+==11504== 
+--11504-- warning: L3 cache found, using its data for the LL simulation.
+
+Loop 2
+        CPU time for (j = 1) 54.548823 secs.
+        CPU time for (j = 2) 28.742193 secs.
+        CPU time for (j = 4) 14.763046 secs.
+        CPU time for (j = 8) 8.369393 secs.
+        CPU time for (j = 16) 4.446271 secs.
+        CPU time for (j = 32) 2.564683 secs.
+        CPU time for (j = 64) 2.171783 secs.
+        CPU time for (j = 128) 1.324703 secs.
+        CPU time for (j = 256) 0.582546 secs.
+        CPU time for (j = 512) 0.277354 secs.
+        CPU time for (j = 1024) 0.139286 secs.
+==11504== 
+==11504== I refs:        18,244,871,954
+==11504== I1  misses:             1,485
+==11504== LLi misses:             1,470
+==11504== I1  miss rate:           0.00%
+==11504== LLi miss rate:           0.00%
+==11504== 
+==11504== D refs:         9,659,013,984  (8,585,779,549 rd   + 1,073,234,435 wr)
+==11504== D1  misses:       200,804,564  (  200,803,962 rd   +           602 wr)
+==11504== LLd misses:       200,804,337  (  200,803,763 rd   +           574 wr)
+==11504== D1  miss rate:            2.1% (          2.3%     +           0.0%  )
+==11504== LLd miss rate:            2.1% (          2.3%     +           0.0%  )
+==11504== 
+==11504== LL refs:          200,806,049  (  200,805,447 rd   +           602 wr)
+==11504== LL misses:        200,805,807  (  200,805,233 rd   +           574 wr)
+==11504== LL miss rate:             0.7% (          0.7%     +           0.0%  )
+==11504== 
+==11504== Branches:       1,073,246,504  (1,073,245,916 cond +           588 ind)
+==11504== Mispredicts:            3,832  (        3,562 cond +           270 ind)
+==11504== Mispred rate:             0.0% (          0.0%     +          45.9%   )
+
+
+LOOP 3
+
+==12387== Cachegrind, a high-precision tracing profiler
+==12387== Copyright (C) 2002-2024, and GNU GPL'd, by Nicholas Nethercote et al.
+==12387== Using Valgrind-3.24.0 and LibVEX; rerun with -h for copyright info
+==12387== Command: ./loop3_ver
+==12387== 
+--12387-- warning: L3 cache found, using its data for the LL simulation.
+
+Loop 3
+        CPU time for (j = 1) 51.156172 secs.
+        CPU time for (j = 2) 30.307977 secs.
+        CPU time for (j = 4) 14.081856 secs.
+        CPU time for (j = 8) 7.223227 secs.
+        CPU time for (j = 16) 3.431419 secs.
+        CPU time for (j = 32) 1.742326 secs.
+        CPU time for (j = 64) 1.125995 secs.
+        CPU time for (j = 128) 0.464640 secs.
+        CPU time for (j = 256) 0.220595 secs.
+        CPU time for (j = 512) 0.106526 secs.
+        CPU time for (j = 1024) 0.056817 secs.
+==12387== 
+==12387== I refs:        20,391,307,097
+==12387== I1  misses:             1,499
+==12387== LLi misses:             1,4621
+==12387== I1  miss rate:           0.00%
+==12387== LLi miss rate:           0.00%
+==12387== 
+==12387== D refs:         9,659,014,008  (8,585,779,553 rd   + 1,073,234,455 wr)
+==12387== D1  misses:             1,994  (        1,593 rd   +           401 wr)
+==12387== LLd misses:             1,695  (        1,337 rd   +           358 wr)
+==12387== D1  miss rate:            0.0% (          0.0%     +           0.0%  )
+==12387== LLd miss rate:            0.0% (          0.0%     +           0.0%  )
+==12387== 
+==12387== LL refs:                3,493  (        3,092 rd   +           401 wr)
+==12387== LL misses:              3,157  (        2,799 rd   +           358 wr)
+==12387== LL miss rate:             0.0% (          0.0%     +           0.0%  )
+==12387== 
+==12387== Branches:       1,073,246,517  (1,073,245,930 cond +           587 ind)
+==12387== Mispredicts:            3,895  (        3,625 cond +           270 ind)
+==12387== Mispred rate:             0.0% (          0.0%     +          46.0%   )
+

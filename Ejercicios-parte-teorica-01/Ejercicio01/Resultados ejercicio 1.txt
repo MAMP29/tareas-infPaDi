@@ -1,0 +1,119 @@
+Resultados ejercicio 1
+
+HILOS
+PRIMERA EJECUCIÓN
+Empezando con el worker 1
+Tiempo total de calculo 201,00190949440002
+Empezando con el worker 2
+Tiempo total de calculo para 2 workers: 116,00227880477905
+Empezando con el worker 3
+Tiempo total de calculo para 3 workers: 91,00301456451416
+Empezando con el worker 6
+Tiempo total de calculo para 6 workers: 60,00261354446411
+Empezando con el worker 12
+Tiempo total de calculo para 12 workers: 35,00379943847656
+Tiempo total para todo el proceso: 503.0150547027588
+(1, 201.00190949440002)
+(2, 116.00227880477905)
+(3, 91.00301456451416)
+(6, 60.00261354446411)
+(12, 35.00379943847656)
+('total time', 503.0150547027588)
+
+
+SEGUNDA EJECUCIÓN
+Empezando con el worker 1
+Tiempo total de calculo 201,001620054245
+Empezando con el worker 2
+Tiempo total de calculo para 2 workers: 116,00162816047668
+Empezando con el worker 3
+Tiempo total de calculo para 3 workers: 91,0007472038269
+Empezando con el worker 6
+Tiempo total de calculo para 6 workers: 60,00243663787842
+Empezando con el worker 12
+Tiempo total de calculo para 12 workers: 35,0035126209259
+Tiempo total para todo el proceso: 503.01159858703613
+(1, 201.001620054245)
+(2, 116.00227880477905)
+(3, 91.0007472038269)
+(6, 60.00243663787842)
+(12, 35.0035126209259)
+('total time', 503.01159858703613)
+
+TERCERA EJECUCIÓN 
+Empezando con el worker 1
+Tiempo total de calculo 201,00555992126465
+Empezando con el worker 2
+Tiempo total de calculo para 2 workers: 116,00190901756287
+Empezando con el worker 3
+Tiempo total de calculo para 3 workers: 91,00856804847717
+Empezando con el worker 6
+Tiempo total de calculo para 6 workers: 60.00360369682312
+Empezando con el worker 12
+Tiempo total de calculo para 12 workers: 35,00397515296936
+Tiempo total para todo el proceso:  503.02518105506897
+(1, 201.00555992126465)
+(2, 116.00227880477905)
+(3, 91.00856804847717)
+(6, 60.00360369682312)
+(12, 35.00397515296936)
+('total time', 503.02518105506897)
+
+
+MULTIPROCESING
+EJECUCIÓN 1
+Empezando con el worker 1
+Tiempo total de calculo 201,00230169296265
+Empezando con el worker 2
+Tiempo total de calculo para 2 workers: 116,02898573875427
+Empezando con el worker 3
+Tiempo total de calculo para 3 workers: 91,01065492630005
+Empezando con el worker 6
+Tiempo total de calculo para 6 workers: 60,0164577960968
+Empezando con el worker 12
+Tiempo total de calculo para 12 workers: 35,020694971084595
+Tiempo total para todo el proceso: 503,0812187194824
+(1, 201.00230169296265)
+(2, 116.02898573875427)
+(3, 91.01065492630005)
+(6, 60.0164577960968)
+(12, 35.020694971084595)
+('total time', 503.0812187194824)
+
+EJECUCIÓN 2
+Empezando con el worker 1
+Tiempo total de calculo 201.00209712982178
+Empezando con el worker 2
+Tiempo total de calculo para 2 workers: 116,01889443397522
+Empezando con el worker 3
+Tiempo total de calculo para 3 workers: 91,00636076927185
+Empezando con el worker 6
+Tiempo total de calculo para 6 workers: 60,01687574386597
+Empezando con el worker 12
+Tiempo total de calculo para 12 workers: 35,0558180809021
+Tiempo total para todo el proceso: 503.102010011673
+(1, 201.00209712982178)
+(2, 116.01889443397522)
+(3, 91.00636076927185)
+(6, 60.01687574386597)
+(12, 35.0558180809021)
+('total time', 503.102010011673)
+
+EJECUCION 3
+Empezando con el worker 1
+Tiempo total de calculo 201.00188565254211
+Empezando con el worker 2
+Tiempo total de calculo para 2 workers: 116,02195906639099
+Empezando con el worker 3
+Tiempo total de calculo para 3 workers: 91,00654101371765
+Empezando con el worker 6
+Tiempo total de calculo para 6 workers: 60,00807499885559
+Empezando con el worker 12
+Tiempo total de calculo para 12 workers: 35,042927503585815
+Tiempo total para todo el proceso: 503.08311343193054
+(1, 201.00188565254211)
+(2, 116.02195906639099)
+(3, 91.00654101371765)
+(6, 60.00807499885559)
+(12, 35.042927503585815)
+('total time', 503.08311343193054)
