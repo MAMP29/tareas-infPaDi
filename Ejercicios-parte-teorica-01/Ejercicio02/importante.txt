@@ -1,0 +1,1 @@
+Para lograr ejecutar este ejercicio debe crear un entorno virtual en python para instalar las librerias de numpy y matplotlib, el motivo es por que numpy resulta ser mas eficiente para trabajar con listas en python y matploblib permite visualizar la gráfica
