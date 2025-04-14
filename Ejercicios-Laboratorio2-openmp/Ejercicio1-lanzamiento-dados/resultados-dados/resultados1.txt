@@ -1,0 +1,29 @@
+Usando 1 hilos...
+
+Hilo 0:
+  Suma  2: 27744 veces
+  Suma  3: 55444 veces
+  Suma  4: 83089 veces
+  Suma  5: 111079 veces
+  Suma  6: 138635 veces
+  Suma  7: 166548 veces
+  Suma  8: 139057 veces
+  Suma  9: 111312 veces
+  Suma 10: 83543 veces
+  Suma 11: 55616 veces
+  Suma 12: 27933 veces
+
+Conteo global total:
+  Suma  2: 27744 veces
+  Suma  3: 55444 veces
+  Suma  4: 83089 veces
+  Suma  5: 111079 veces
+  Suma  6: 138635 veces
+  Suma  7: 166548 veces
+  Suma  8: 139057 veces
+  Suma  9: 111312 veces
+  Suma 10: 83543 veces
+  Suma 11: 55616 veces
+  Suma 12: 27933 veces
+
+Tiempo total de ejecución: 0.057248 segundos

@@ -1,0 +1,42 @@
+Usando 2 hilos...
+
+Hilo 0:
+  Suma  2: 13806 veces
+  Suma  3: 27604 veces
+  Suma  4: 41602 veces
+  Suma  5: 55572 veces
+  Suma  6: 69083 veces
+  Suma  7: 83377 veces
+  Suma  8: 69606 veces
+  Suma  9: 55551 veces
+  Suma 10: 41860 veces
+  Suma 11: 27906 veces
+  Suma 12: 14033 veces
+
+Hilo 1:
+  Suma  2: 13800 veces
+  Suma  3: 27742 veces
+  Suma  4: 41853 veces
+  Suma  5: 55891 veces
+  Suma  6: 69664 veces
+  Suma  7: 83268 veces
+  Suma  8: 69192 veces
+  Suma  9: 55368 veces
+  Suma 10: 41758 veces
+  Suma 11: 27755 veces
+  Suma 12: 13709 veces
+
+Conteo global total:
+  Suma  2: 27606 veces
+  Suma  3: 55346 veces
+  Suma  4: 83455 veces
+  Suma  5: 111463 veces
+  Suma  6: 138747 veces
+  Suma  7: 166645 veces
+  Suma  8: 138798 veces
+  Suma  9: 110919 veces
+  Suma 10: 83618 veces
+  Suma 11: 55661 veces
+  Suma 12: 27742 veces
+
+Tiempo total de ejecución: 0.035593 segundos

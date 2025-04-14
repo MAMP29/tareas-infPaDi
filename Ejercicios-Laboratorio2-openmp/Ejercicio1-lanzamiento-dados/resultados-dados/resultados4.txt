@@ -1,0 +1,68 @@
+Usando 4 hilos...
+
+Hilo 0:
+  Suma  2: 6813 veces
+  Suma  3: 13852 veces
+  Suma  4: 20787 veces
+  Suma  5: 27538 veces
+  Suma  6: 34375 veces
+  Suma  7: 41801 veces
+  Suma  8: 34949 veces
+  Suma  9: 27890 veces
+  Suma 10: 21113 veces
+  Suma 11: 13931 veces
+  Suma 12: 6951 veces
+
+Hilo 1:
+  Suma  2: 6833 veces
+  Suma  3: 13967 veces
+  Suma  4: 20812 veces
+  Suma  5: 27982 veces
+  Suma  6: 34991 veces
+  Suma  7: 41561 veces
+  Suma  8: 34604 veces
+  Suma  9: 27673 veces
+  Suma 10: 20955 veces
+  Suma 11: 13828 veces
+  Suma 12: 6794 veces
+
+Hilo 2:
+  Suma  2: 6887 veces
+  Suma  3: 13981 veces
+  Suma  4: 20888 veces
+  Suma  5: 27690 veces
+  Suma  6: 34833 veces
+  Suma  7: 41651 veces
+  Suma  8: 34759 veces
+  Suma  9: 27870 veces
+  Suma 10: 20719 veces
+  Suma 11: 13805 veces
+  Suma 12: 6917 veces
+
+Hilo 3:
+  Suma  2: 6927 veces
+  Suma  3: 13943 veces
+  Suma  4: 21143 veces
+  Suma  5: 27856 veces
+  Suma  6: 34663 veces
+  Suma  7: 41777 veces
+  Suma  8: 34607 veces
+  Suma  9: 27599 veces
+  Suma 10: 20746 veces
+  Suma 11: 13829 veces
+  Suma 12: 6910 veces
+
+Conteo global total:
+  Suma  2: 27460 veces
+  Suma  3: 55743 veces
+  Suma  4: 83630 veces
+  Suma  5: 111066 veces
+  Suma  6: 138862 veces
+  Suma  7: 166790 veces
+  Suma  8: 138919 veces
+  Suma  9: 111032 veces
+  Suma 10: 83533 veces
+  Suma 11: 55393 veces
+  Suma 12: 27572 veces
+
+Tiempo total de ejecución: 0.061759 segundos

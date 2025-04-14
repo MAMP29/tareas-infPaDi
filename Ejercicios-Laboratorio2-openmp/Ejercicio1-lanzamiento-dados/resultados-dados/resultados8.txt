@@ -1,0 +1,120 @@
+Usando 8 hilos...
+
+Hilo 0:
+  Suma  2: 3487 veces
+  Suma  3: 6938 veces
+  Suma  4: 10377 veces
+  Suma  5: 13857 veces
+  Suma  6: 17066 veces
+  Suma  7: 20865 veces
+  Suma  8: 17419 veces
+  Suma  9: 13876 veces
+  Suma 10: 10626 veces
+  Suma 11: 6964 veces
+  Suma 12: 3525 veces
+
+Hilo 1:
+  Suma  2: 3388 veces
+  Suma  3: 6939 veces
+  Suma  4: 10423 veces
+  Suma  5: 14025 veces
+  Suma  6: 17447 veces
+  Suma  7: 20717 veces
+  Suma  8: 17285 veces
+  Suma  9: 13857 veces
+  Suma 10: 10531 veces
+  Suma 11: 6963 veces
+  Suma 12: 3425 veces
+
+Hilo 2:
+  Suma  2: 3443 veces
+  Suma  3: 6926 veces
+  Suma  4: 10504 veces
+  Suma  5: 13858 veces
+  Suma  6: 17422 veces
+  Suma  7: 20873 veces
+  Suma  8: 17275 veces
+  Suma  9: 13985 veces
+  Suma 10: 10332 veces
+  Suma 11: 6845 veces
+  Suma 12: 3537 veces
+
+Hilo 3:
+  Suma  2: 3516 veces
+  Suma  3: 7014 veces
+  Suma  4: 10553 veces
+  Suma  5: 13844 veces
+  Suma  6: 17376 veces
+  Suma  7: 20773 veces
+  Suma  8: 17321 veces
+  Suma  9: 13970 veces
+  Suma 10: 10332 veces
+  Suma 11: 6881 veces
+  Suma 12: 3420 veces
+
+Hilo 4:
+  Suma  2: 3448 veces
+  Suma  3: 7054 veces
+  Suma  4: 10418 veces
+  Suma  5: 13831 veces
+  Suma  6: 17430 veces
+  Suma  7: 20732 veces
+  Suma  8: 17421 veces
+  Suma  9: 13944 veces
+  Suma 10: 10398 veces
+  Suma 11: 6965 veces
+  Suma 12: 3359 veces
+
+Hilo 5:
+  Suma  2: 3442 veces
+  Suma  3: 6999 veces
+  Suma  4: 10410 veces
+  Suma  5: 13867 veces
+  Suma  6: 17251 veces
+  Suma  7: 20664 veces
+  Suma  8: 17485 veces
+  Suma  9: 14009 veces
+  Suma 10: 10374 veces
+  Suma 11: 6962 veces
+  Suma 12: 3537 veces
+
+Hilo 6:
+  Suma  2: 3457 veces
+  Suma  3: 6888 veces
+  Suma  4: 10370 veces
+  Suma  5: 14025 veces
+  Suma  6: 17351 veces
+  Suma  7: 20830 veces
+  Suma  8: 17434 veces
+  Suma  9: 13863 veces
+  Suma 10: 10347 veces
+  Suma 11: 6909 veces
+  Suma 12: 3526 veces
+
+Hilo 7:
+  Suma  2: 3489 veces
+  Suma  3: 6927 veces
+  Suma  4: 10401 veces
+  Suma  5: 13888 veces
+  Suma  6: 17365 veces
+  Suma  7: 20967 veces
+  Suma  8: 17529 veces
+  Suma  9: 13867 veces
+  Suma 10: 10270 veces
+  Suma 11: 6839 veces
+  Suma 12: 3458 veces
+
+Conteo global total:
+  Suma  2: 27670 veces
+  Suma  3: 55685 veces
+  Suma  4: 83456 veces
+  Suma  5: 111195 veces
+  Suma  6: 138708 veces
+  Suma  7: 166421 veces
+  Suma  8: 139169 veces
+  Suma  9: 111371 veces
+  Suma 10: 83210 veces
+  Suma 11: 55328 veces
+  Suma 12: 27787 veces
+
+Tiempo total de ejecución: 0.028418 segundos

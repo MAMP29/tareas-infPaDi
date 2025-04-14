@@ -1,0 +1,172 @@
+Usando 12 hilos...
+
+Hilo 0:
+  Suma  2: 2300 veces
+  Suma  3: 4575 veces
+  Suma  4: 6911 veces
+  Suma  5: 9280 veces
+  Suma  6: 11346 veces
+  Suma  7: 14036 veces
+  Suma  8: 11600 veces
+  Suma  9: 9192 veces
+  Suma 10: 7086 veces
+  Suma 11: 4617 veces
+  Suma 12: 2390 veces
+
+Hilo 1:
+  Suma  2: 2260 veces
+  Suma  3: 4639 veces
+  Suma  4: 6985 veces
+  Suma  5: 9343 veces
+  Suma  6: 11575 veces
+  Suma  7: 13753 veces
+  Suma  8: 11498 veces
+  Suma  9: 9291 veces
+  Suma 10: 7060 veces
+  Suma 11: 4627 veces
+  Suma 12: 2302 veces
+
+Hilo 2:
+  Suma  2: 2287 veces
+  Suma  3: 4562 veces
+  Suma  4: 7033 veces
+  Suma  5: 9256 veces
+  Suma  6: 11741 veces
+  Suma  7: 13947 veces
+  Suma  8: 11448 veces
+  Suma  9: 9308 veces
+  Suma 10: 6823 veces
+  Suma 11: 4610 veces
+  Suma 12: 2318 veces
+
+Hilo 3:
+  Suma  2: 2369 veces
+  Suma  3: 4673 veces
+  Suma  4: 6966 veces
+  Suma  5: 9193 veces
+  Suma  6: 11673 veces
+  Suma  7: 13879 veces
+  Suma  8: 11621 veces
+  Suma  9: 9339 veces
+  Suma 10: 6824 veces
+  Suma 11: 4558 veces
+  Suma 12: 2238 veces
+
+Hilo 4:
+  Suma  2: 2327 veces
+  Suma  3: 4690 veces
+  Suma  4: 6975 veces
+  Suma  5: 9244 veces
+  Suma  6: 11609 veces
+  Suma  7: 13782 veces
+  Suma  8: 11569 veces
+  Suma  9: 9329 veces
+  Suma 10: 6870 veces
+  Suma 11: 4689 veces
+  Suma 12: 2249 veces
+
+Hilo 5:
+  Suma  2: 2331 veces
+  Suma  3: 4689 veces
+  Suma  4: 6908 veces
+  Suma  5: 9278 veces
+  Suma  6: 11505 veces
+  Suma  7: 13745 veces
+  Suma  8: 11632 veces
+  Suma  9: 9294 veces
+  Suma 10: 6949 veces
+  Suma 11: 4630 veces
+  Suma 12: 2372 veces
+
+Hilo 6:
+  Suma  2: 2318 veces
+  Suma  3: 4614 veces
+  Suma  4: 6951 veces
+  Suma  5: 9369 veces
+  Suma  6: 11544 veces
+  Suma  7: 13795 veces
+  Suma  8: 11684 veces
+  Suma  9: 9289 veces
+  Suma 10: 6857 veces
+  Suma 11: 4568 veces
+  Suma 12: 2344 veces
+
+Hilo 7:
+  Suma  2: 2312 veces
+  Suma  3: 4714 veces
+  Suma  4: 6868 veces
+  Suma  5: 9309 veces
+  Suma  6: 11517 veces
+  Suma  7: 13973 veces
+  Suma  8: 11720 veces
+  Suma  9: 9136 veces
+  Suma 10: 6937 veces
+  Suma 11: 4584 veces
+  Suma 12: 2263 veces
+
+Hilo 8:
+  Suma  2: 2276 veces
+  Suma  3: 4591 veces
+  Suma  4: 6845 veces
+  Suma  5: 9396 veces
+  Suma  6: 11650 veces
+  Suma  7: 13796 veces
+  Suma  8: 11715 veces
+  Suma  9: 9181 veces
+  Suma 10: 6875 veces
+  Suma 11: 4651 veces
+  Suma 12: 2357 veces
+
+Hilo 9:
+  Suma  2: 2374 veces
+  Suma  3: 4631 veces
+  Suma  4: 6956 veces
+  Suma  5: 9201 veces
+  Suma  6: 11556 veces
+  Suma  7: 13790 veces
+  Suma  8: 11478 veces
+  Suma  9: 9249 veces
+  Suma 10: 6959 veces
+  Suma 11: 4784 veces
+  Suma 12: 2355 veces
+
+Hilo 10:
+  Suma  2: 2270 veces
+  Suma  3: 4574 veces
+  Suma  4: 7031 veces
+  Suma  5: 9377 veces
+  Suma  6: 11641 veces
+  Suma  7: 13921 veces
+  Suma  8: 11463 veces
+  Suma  9: 9074 veces
+  Suma 10: 6853 veces
+  Suma 11: 4743 veces
+  Suma 12: 2386 veces
+
+Hilo 11:
+  Suma  2: 2256 veces
+  Suma  3: 4656 veces
+  Suma  4: 6996 veces
+  Suma  5: 9300 veces
+  Suma  6: 11407 veces
+  Suma  7: 13670 veces
+  Suma  8: 11761 veces
+  Suma  9: 9349 veces
+  Suma 10: 6931 veces
+  Suma 11: 4662 veces
+  Suma 12: 2345 veces
+
+Conteo global total:
+  Suma  2: 27680 veces
+  Suma  3: 55608 veces
+  Suma  4: 83425 veces
+  Suma  5: 111546 veces
+  Suma  6: 138764 veces
+  Suma  7: 166087 veces
+  Suma  8: 139189 veces
+  Suma  9: 111031 veces
+  Suma 10: 83024 veces
+  Suma 11: 55723 veces
+  Suma 12: 27919 veces
+
+Tiempo total de ejecución: 0.026747 segundos

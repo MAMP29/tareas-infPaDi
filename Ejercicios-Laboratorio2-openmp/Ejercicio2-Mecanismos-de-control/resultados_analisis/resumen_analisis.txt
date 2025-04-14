@@ -1,0 +1,49 @@
+RESUMEN DEL ANÁLISIS DE RENDIMIENTO OPENMP
+=======================================
+
+RESUMEN GENERAL
+--------------
+Total de configuraciones de hilos analizadas: 8
+Modos de ejecución evaluados: Forma 1 (OMP_NUM_THREADS), Forma 2 (omp_set_num_threads), Forma 3 (num_threads)
+Número total de ejecuciones: 2400
+
+MEJOR RENDIMIENTO GLOBAL
+------------------------
+Modo: Forma 2 (omp_set_num_threads)
+Número de hilos: 16
+Tiempo promedio: 0.102091 segundos
+Aceleración: 3.741520x
+Eficiencia: 0.233845
+
+MEJOR ACELERACIÓN
+-----------------
+Modo: Forma 1 (OMP_NUM_THREADS)
+Número de hilos: 64
+Aceleración: 3.830939x
+Tiempo promedio: 0.104481 segundos
+
+COMPARATIVA ENTRE MODOS (Con 8 hilos)
+------------------------------------
+Modo: Forma 1 (OMP_NUM_THREADS), Tiempo: 0.110531 s, Aceleración: 3.62x, Eficiencia: 0.45
+Modo: Forma 3 (num_threads), Tiempo: 0.117105 s, Aceleración: 3.28x, Eficiencia: 0.41
+Modo: Forma 2 (omp_set_num_threads), Tiempo: 0.124255 s, Aceleración: 3.07x, Eficiencia: 0.38
+
+IMPACTO DE OMP_THREAD_LIMIT
+---------------------------
+Con límite = 4:
+  - Límite-Forma 1: 0.118377 s
+  - Límite-Forma 2: 0.118300 s
+  - Límite-Forma 3: 0.117264 s
+Con límite = 8:
+  - Límite-Forma 1: 0.136485 s
+  - Límite-Forma 2: 0.132866 s
+  - Límite-Forma 3: 0.113573 s
+
+CONCLUSIONES
+-----------
+1. El modo con mejor rendimiento promedio es: Forma 2 (omp_set_num_threads)
+2. El modo con mejor escalabilidad (mayor aceleración) es: Forma 1 (OMP_NUM_THREADS)
+3. La eficiencia con el máximo número de hilos (128) es: 0.03
+4. Forma 1 (OMP_NUM_THREADS) muestra signos de saturación a partir de 4 hilos
+4. Forma 2 (omp_set_num_threads) muestra signos de saturación a partir de 4 hilos
+4. Forma 3 (num_threads) muestra signos de saturación a partir de 4 hilos
